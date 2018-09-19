@@ -14,7 +14,10 @@ patterns. The three-points example -- mentioned above -- produced a Sierpinski
 triangle ( https://en.wikipedia.org/wiki/Sierpinski_triangle ). 
 '''
 
+'''
+Hello This is good
 
+'''
 class Point:
 
     '''
